@@ -1,0 +1,8 @@
+{
+    "addon_name": "Gizmo PRO",
+    "version": "5.0.0",
+    "supported_blender_versions": ["4.2", "4.3"],
+    "date": "2024-12-09",
+    "download_url": "https://blendermarket.com/products/gizmo-pro-addon-blender-2",
+    "release_notes": "Release"
+}
