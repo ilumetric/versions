@@ -1,0 +1,8 @@
+{
+    "addon_name": "Pivot Transform",
+    "version": "4.2.0",
+    "supported_blender_versions": ["4.3", "4.4"],
+    "date": "2025-03-23",
+    "download_url": "https://blendermarket.com/products/pivot-transform",
+    "release_notes": "Release"
+}
